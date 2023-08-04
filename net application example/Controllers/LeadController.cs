@@ -7,7 +7,7 @@ namespace Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class LeadController : ControllerBase
+    public class LeadController : ControllerBase 
     {
         private readonly ILeadService _leadService;
 

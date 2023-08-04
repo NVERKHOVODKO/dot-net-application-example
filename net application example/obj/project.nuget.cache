@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBRyfwY6MCCIBe29Xhws3OeQ+s76Z8086jWhjIftyx11IODrGeRJmWKTbaAJ74TWiLslsYad5focNZiofREemw==",
+  "dgSpecHash": "Kzgh8Ebnwf2ntr5FFhG0Md1ZFi0tsNANZoFWrW2iDJYV2KZZ3L9K04x4pThgtTgeChzo4Ij/x6lDHzohXhUzEA==",
   "success": true,
-  "projectFilePath": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\net application example\\net application example\\net application example.csproj",
+  "projectFilePath": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\.Net-Application-Example\\net application example\\net application example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

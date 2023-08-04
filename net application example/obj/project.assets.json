@@ -1534,11 +1534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\net application example\\net application example\\net application example.csproj",
+      "projectUniqueName": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\.Net-Application-Example\\net application example\\net application example.csproj",
       "projectName": "net application example",
-      "projectPath": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\net application example\\net application example\\net application example.csproj",
+      "projectPath": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\.Net-Application-Example\\net application example\\net application example.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\net application example\\net application example\\obj\\",
+      "outputPath": "C:\\НЕ СИСТЕМА\\BSUIR\\второй курс\\.Net-Application-Example\\net application example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

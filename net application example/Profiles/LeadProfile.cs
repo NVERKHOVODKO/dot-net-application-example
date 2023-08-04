@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using Entities;
 using Models;
+using Repository;
+using Services;
 
 namespace Profiles
 {
