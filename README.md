@@ -1,4 +1,7 @@
 # .Net-Application-Example
+  
+  (ENG)
+  
   Sample web application built using ASP.NET Core technologies. This project demonstrates a simple CRUD (Create, Read, Update, Delete) functionality for working with data. The project uses the principles of Separation of Concerns and Dependency Inversion.
 
 Technologies:
@@ -16,6 +19,9 @@ The main components of the architecture include:
 -Controllers: Controllers are part of the presentation layer and provide an API for user interaction. They accept HTTP requests, call the appropriate service methods, and return HTTP responses.
   
 
+
+
+  (RU)
   
   Пример веб-приложения, созданного с использованием технологий ASP.NET Core. Этот проект демонстрирует простой CRUD (Create, Read, Update, Delete) функционал для работы с данными. 
   В проекте применены принципы разделения ответственности (Separation of Concerns) и инверсии зависимостей (Dependency Inversion). 
