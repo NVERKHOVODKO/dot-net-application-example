@@ -22,6 +22,8 @@ namespace Services
             var entity = _mapper.Map<OrderEntity>(order);
             var result = await _dbRepository.Add(entity);
 
+            await _dbRepository.SaveChangesAsync();
+
             return result;
         }
 

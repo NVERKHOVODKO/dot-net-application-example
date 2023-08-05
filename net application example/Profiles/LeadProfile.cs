@@ -28,6 +28,14 @@ namespace Profiles
 
             CreateMap<LeadEntity, LeadModel>();
             CreateMap<LeadModel, LeadEntity>();
+            CreateMap<OrderModel, OrderEntity>()
+               .ForMember(dest => dest.LeadId, opt => opt.MapFrom(src => src.Lead.Id)) // Отображение Lead.Id на LeadId
+               .ForMember(dest => dest.ProductsId, opt => opt.MapFrom(src => src.Products.Select(p => p.Id).ToList())); // Отображение списка Products.Id на ProductsId
+
+            // Отображение из OrderEntity в OrderModel
+            CreateMap<OrderEntity, OrderModel>()
+                .ForMember(dest => dest.Lead, opt => opt.MapFrom(src => src.Lead)) // Отображение Lead на Lead
+                .ForMember(dest => dest.Products, opt => opt.MapFrom(src => src.Products)); // Отображение списка Products на Products
 
             // Add mappings for new models
             CreateMap<CategoryEntity, CategoryModel>();
@@ -50,6 +58,7 @@ namespace Profiles
             CreateMap<ProductEntity, ProductModel>()
                 .ForMember(dest => dest.Category, opt => opt.MapFrom(src => src.Category))
                 .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.CategoryId));
+            CreateMap<ProductModel, ProductEntity>();
 
             CreateMap<UserEntity, UserModel>();
             CreateMap<UserModel, UserEntity>();
