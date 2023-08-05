@@ -25,7 +25,6 @@ namespace Services
         {
             var entity = _mapper.Map<LeadEntity>(lead);
             entity.UserCreated = _currentUser.Id;
-
             var result = await _dbRepository.Add(entity);
             await _dbRepository.SaveChangesAsync();
 
