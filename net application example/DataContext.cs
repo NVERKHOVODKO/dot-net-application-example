@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Entities;
+using Npgsql;
 
 public class DataContext : DbContext
 {

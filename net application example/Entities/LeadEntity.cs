@@ -5,10 +5,9 @@ namespace Entities
 {
     public class LeadEntity: BaseEntity
     {
+        public Guid PersonId { get; set; }
         [JsonIgnore]
         [ForeignKey("PersonId")]
         public PersonEntity Person { get; set; }
-        
-        public Guid PersonId { get; set; }
     }
 }
