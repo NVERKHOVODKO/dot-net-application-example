@@ -4,7 +4,9 @@
 Технологии:
 
 ASP.NET Core
+
 Entity Framework Core
+
 AutoMapper
 
 Архитектура проекта:
