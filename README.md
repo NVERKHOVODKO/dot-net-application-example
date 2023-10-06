@@ -24,7 +24,7 @@ The main components of the architecture include:
   (RU)
   
   Пример веб-приложения, созданного с использованием технологий ASP.NET Core. Этот проект демонстрирует простой CRUD (Create, Read, Update, Delete) функционал для работы с данными. 
-  В проекте применены принципы разделения ответственности (Separation of Concerns) и инверсии зависимостей (Dependency Inversion). 
+  В проекте применены принципы разделения ответственности (Separation of Concerns) и внедрения зависимостей (Dependency Injection). 
 
 
 Технологии:
