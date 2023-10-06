@@ -1,0 +1,66 @@
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\appsettings.Development.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\appsettings.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\net application example.staticwebassets.runtime.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\net application example.exe
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\net application example.deps.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\net application example.runtimeconfig.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\net application example.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\net application example.pdb
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\AutoMapper.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Docker.DotNet.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Humanizer.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\System.Web.Http.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\System.Web.Http.WebHost.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Microsoft.Web.Infrastructure.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Mono.TextTemplating.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\NodaTime.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Npgsql.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\Swashbuckle.Core.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\System.CodeDom.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\System.Text.Json.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\WebActivatorEx.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.csproj.AssemblyReference.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.GeneratedMSBuildEditorConfig.editorconfig
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.AssemblyInfoInputs.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.AssemblyInfo.cs
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.csproj.CoreCompileInputs.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.MvcApplicationPartsAssemblyInfo.cs
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.MvcApplicationPartsAssemblyInfo.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets\msbuild.net application example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets\msbuild.build.net application example.props
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.net application example.props
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.net application example.props
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets.pack.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets.build.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\staticwebassets.development.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\scopedcss\bundle\net application example.styles.css
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.csproj.CopyComplete
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\refint\net application example.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.pdb
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\net application example.genruntimeconfig.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Release\net6.0\ref\net application example.dll

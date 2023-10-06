@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConsoleApp1",
+    "\\net application example",
+    "\\net application example\\Controllers",
+    "\\net application example\\Entities",
+    "\\net application example\\Repository",
+    "\\net application example\\Services"
+  ],
+  "SelectedNode": "\\net application example\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

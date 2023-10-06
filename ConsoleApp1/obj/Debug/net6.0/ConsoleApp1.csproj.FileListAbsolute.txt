@@ -1,0 +1,15 @@
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

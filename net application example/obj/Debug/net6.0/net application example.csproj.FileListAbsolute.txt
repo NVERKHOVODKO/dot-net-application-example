@@ -119,3 +119,4 @@ C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net 
 C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Debug\net6.0\System.Text.Json.dll
 C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Debug\net6.0\NodaTime.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\bin\Debug\net6.0\Docker.DotNet.dll

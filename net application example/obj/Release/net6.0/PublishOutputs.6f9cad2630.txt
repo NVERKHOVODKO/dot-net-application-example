@@ -1,0 +1,36 @@
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\net application example.exe
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\appsettings.Development.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\appsettings.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\net application example.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\net application example.runtimeconfig.json
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\net application example.pdb
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\AutoMapper.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Docker.DotNet.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\System.Net.Http.Formatting.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\System.Web.Http.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\System.Web.Http.WebHost.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.EntityFrameworkCore.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Logging.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Options.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Extensions.Primitives.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Microsoft.Web.Infrastructure.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Newtonsoft.Json.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\NodaTime.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Npgsql.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\Swashbuckle.Core.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\WebActivatorEx.dll
+C:\НЕ СИСТЕМА\BSUIR\второй курс\.Net-Application-Example\net application example\obj\Docker\publish\net application example.deps.json
